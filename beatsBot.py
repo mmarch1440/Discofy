@@ -3,7 +3,7 @@ from discordSetup import run
 from discordSetup import client
 from spotipySetup import addSong,getTopSongByAtistThenTitle,getTopSongByTitle
 #
-from youtube_title_parse import get_artist_title
+#from youtube_title_parse import get_artist_title
 
 # Youtube config
 REGEXYT = r"\bhttps:\/\/(www|m)\.youtu(|\.)be[^ ;]*"
